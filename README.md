@@ -1,1 +1,1 @@
-# TechInsight-Hub.github.io
+# TechInsight-Hub
